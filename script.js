@@ -117,7 +117,6 @@ function doIEndWithAnOperator() {
 function operate() {
     var twoOperandsOneOperator = lowerDisplay.textContent.split(operator);
     firstNum = twoOperandsOneOperator[0];
-    alert(twoOperandsOneOperator[1]);
     if (twoOperandsOneOperator[1] == undefined) {
         operator = "+";
         twoOperandsOneOperator[1] = 0;
