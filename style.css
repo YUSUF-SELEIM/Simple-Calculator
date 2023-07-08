@@ -24,7 +24,7 @@ body {
 }
 
 .display {
-    border: solid #a76f6f 4px;
+    border: solid #a76f6f 2px;
     background-color: #435b66;
     color: #eab2a0;
     height: 50px;
@@ -51,7 +51,7 @@ body {
 
 .button {
     background-color: #eab2a0;
-    border: solid #a76f6f 4px;
+    border: solid #a76f6f 2px;
     font-family: "Agdasima", sans-serif;
     font-size: 25px;
 }
